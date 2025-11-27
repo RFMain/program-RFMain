@@ -9,7 +9,7 @@ Solana Program ID:
 Project Overview
 Description
 
-Punchcard It is an on-chain workforce time-tracking application built on Solana Devnet using the Anchor framework. It enables employers to manage worker attendance while ensuring all shift activity is recorded immutably on the blockchain.
+PunchCard It is an on-chain workforce time-tracking application built on Solana Devnet using the Anchor framework. It enables employers to manage worker attendance while ensuring all shift activity is recorded immutably on the blockchain.
 
 The system provides employees with the ability to clock in and out, begin and end intermittent breaks, and manage lunch periods. Administrators can initialize employee accounts, monitor shift activity, and verify work history. All interactions are processed through a Program Derived Address (PDA) that stores individualized employee timestamps.
 
