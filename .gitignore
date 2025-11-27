@@ -1,0 +1,36 @@
+# Editor junk
+.DS_Store
+.idea/
+.vscode/
+
+# Build artifacts
+target/
+**/*.rs.bk
+
+# Node junk
+node_modules/
+.yarn/
+yarn.lock
+package-lock.json
+
+# Local testing/ledger
+test-ledger/
+tests/
+test-ledger/**
+
+# Anchor metadata + config junk (keep .anchor if needed for deploy)
+.anchor/idl/
+.anchor/test-ledger/
+.anchor/target/
+
+# Output artifacts
+dist/
+build/
+
+# Logs and crap
+*.log
+.env
+.env.*
+
+# Frontend
+/frontend/
